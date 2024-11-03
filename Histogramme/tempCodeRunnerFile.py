@@ -1,0 +1,1 @@
+image = cv2.imread(nom_image)
